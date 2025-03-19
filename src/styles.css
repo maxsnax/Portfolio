@@ -1,0 +1,9 @@
+.gallery img {
+    transition: 1s !important;
+}
+
+.gallery img:hover {
+    filter: grayscale(100%) !important;
+    transform: scale(1.1) !important;
+}
+
